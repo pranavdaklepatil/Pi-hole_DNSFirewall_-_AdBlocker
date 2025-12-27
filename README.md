@@ -1,4 +1,22 @@
-# 🚀 Pi-hole: Network-wide DNS Firewall & Ad Blocker
+<div align="center">
+  <a href="https://pi-hole.net/">
+    <img src="https://pi-hole.github.io/graphics/Vortex/vortex_with_text.svg" width="144" height="256" alt="Pi-hole website">
+  </a>
+  <br>
+  <strong>Network-wide ad blocking via your own Linux hardware</strong>
+  <br>
+  <br>
+  <div align="center">
+    <a href="https://pi-hole.net/">Pi-hole website</a> |
+    <a href="https://docs.pi-hole.net/">Documentation</a> |
+    <a href="https://discourse.pi-hole.net/">Discourse Forum</a> |
+    <a href="https://pi-hole.net/donate">Donate</a>
+  </div>
+  <br>
+  <br>
+</div>
+
+# Pi-hole: Network-wide DNS Firewall & Ad Blocker
 
 A high-performance, Docker-based DNS sinkhole designed for **Network-wide Ad Blocking**, **Tracker Prevention**, and **DNS-level Security**.
 
