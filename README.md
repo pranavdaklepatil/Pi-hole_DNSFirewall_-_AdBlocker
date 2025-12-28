@@ -91,7 +91,7 @@ This setup transforms your Kali Linux VM or local server into a powerful **DNS F
 *Custom blocklist configuration and management*
 
 #### Network Statistics
-![Network Stats](images/network-stats.png)
+![Network Stats](images/network-stats.png)\
 *Detailed analytics and client-wise filtering stats*
 
 </div>
