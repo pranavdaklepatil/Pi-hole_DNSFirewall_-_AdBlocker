@@ -40,7 +40,7 @@ Before configuring devices, ensure Pi-hole accepts DNS queries from all sources:
 
 <div align="center">
 
-![Pi-hole Advanced DNS Settings](images/pihole-advanced-dns.png)
+![Pi-hole Advanced DNS Settings](images/pihole-advanced-dns.png)\
 *Navigate to Settings → DNS → Advanced DNS Settings*
 
 </div>
